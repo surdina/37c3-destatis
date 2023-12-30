@@ -20,3 +20,8 @@ FINTA* Workshop at 37c3, Day 4
 You can explore Destatis by searching for an attribute you are interested in, e.g. `geschlecht`, using the [online search function](https://www-genesis.destatis.de/genesis/online). This will show you a overview of tables that contain the variable you searched for. You can use the table ID numbers when interacting with the API.
 
 * The [API handbook](https://www-genesis.destatis.de/genesis/misc/GENESIS-Webservices_Einfuehrung.pdf) will be your friend. 
+
+
+# Notes
+
+* This code has been tested using Python version `3.10.9`.
