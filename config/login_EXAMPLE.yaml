@@ -1,0 +1,5 @@
+access_path: "https://www-genesis.destatis.de/genesisWS/rest/2020"
+language: "de"
+format: "ffcsv"
+username: "yourusername"
+password: "replacebypassword1234!"
