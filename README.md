@@ -39,15 +39,18 @@ Run `pip install -r requirements.txt` in your terminal or command prompt.
 
 
 
-## Try out the notebook
+# Try out 
+
+Try out the notebook to look at pay by gender! 
 
 * Notebook Name: `get_data.ipynb`
 * Open and run the notebook to try out the workshop material. This notebook is designed to guide you through the process of fetching data using the API.
 
 
 
-## Explore with Destatis 🚀
-### Discover data attributes
+# Explore 🚀
+
+Discover data attributes in Destatis:
 
 * Use the [Destatis Online Search](https://www-genesis.destatis.de/genesis/online) to look for specific attributes, like `geschlecht`.
   * You can get lists of tables directly from the notebook, but the website is more user-friendly for getting an overview.
@@ -55,11 +58,7 @@ Run `pip install -r requirements.txt` in your terminal or command prompt.
 
 * The [API handbook](https://www-genesis.destatis.de/genesis/misc/GENESIS-Webservices_Einfuehrung.pdf) will be your friend. 
 
-## Explore 🚀
-
-You can explore Destatis by searching for an attribute you are interested in, e.g. `geschlecht`, using the . This will show you a overview of tables that contain the variable you searched for. You can use the table ID numbers when interacting with the API.
-
 # Notes
 
 * Compatibility: This code has been tested using Python version `3.10.9`.
-* Feedback and Queries: For any questions, clarifications, or feedback regarding the workshop content, feel free to raise your hand! 
+* For any questions, clarifications, or feedback regarding the workshop content, feel free to raise your hand or contact me afterwards! 
